@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hello</string>
+    <string-array name="convert">
+        <item>DH</item>
+        <item>DOLLAR</item>
+        <item>EURO</item>
+    </string-array>
+</resources>
